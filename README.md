@@ -1,5 +1,4 @@
-  <h1 align="center">Hi 👋, I'm BevinKylie</h1>
-- 🌱 I’m currently learning **FullStack Web Development**
+  <h1 align="center">Hi 👋, I'm BevinKylie</h1>Web Design Extraordinaire & Zombie right activist
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
