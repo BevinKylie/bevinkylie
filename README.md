@@ -24,6 +24,3 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@BevinKylie/30-nites-of-code)  
-  ![@BevinKylie #30NitesOfCode](https://www.codedex.io/api/petStatus?user=BevinKylie)
